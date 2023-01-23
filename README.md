@@ -4,7 +4,13 @@ Machine learning toys that help me learn.
 
 ## Description
 
-+ LHY-HW: Homework for Hongyi Lee's course
++ [deep-thoughts](./deep-thoughts/): The code of bilibili up owner [deep-thoughts](https://space.bilibili.com/373596439) in action.
+
+| Loc   | Description | Tags |
+| :---: | :---       | :---  |
+|[Transformer 难点逐行实现](./deep-thoughts/Transformer%20%E9%9A%BE%E7%82%B9%E7%90%86%E8%A7%A3%E4%B8%8E%E5%AE%9E%E7%8E%B0.ipynb) | 使用 PyTorch 逐行实现了 Transformer 中关键的 Self-Attention、Position Embedding、三种不同的 mask 和 mask loss | Transformer, Self-Attention, Mask |
+
++ [LHY-HW](./LHY-HW/): Homework for Hongyi Lee's course
 
 
 | Loc   | Description | Tags |
