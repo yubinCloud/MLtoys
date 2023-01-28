@@ -36,3 +36,7 @@ Homework for Hongyi Lee's course
 | [01.install](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/01.install.ipynb) | HuggingFace 的安装 | HuggingFace, PyTorch |
 | [02.tokenizer](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/02.tokenizer.ipynb) | Tokenizer 的使用 | HuggingFace, Tokenizer, BERT |
 | [03.datasets](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/03.datasets.ipynb) | HuggingFace 中 datasets 的使用 | HuggingFace, Dataset |
+| [04.metrics](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/04.metrics.ipynb) | HuggingFace 中评价函数的使用的示例 | HuggingFace, metrics |
+| [05.pipeline](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/05.pipeline.ipynb) | HuggingFace 中 pipeline 的使用的示例 | HuggingFace, pipeline |
+| [06.中文文本情感分类](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/06.%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB.ipynb) | 使用 HuggingFace 中的 BERT 来做情感分类的任务，通过只对最后的 FC 层进行 fine-tuning 来进行训练并测试 | HuggingFace, BERT, sentiment-analysis |
+
