@@ -39,4 +39,6 @@ Homework for Hongyi Lee's course
 | [04.metrics](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/04.metrics.ipynb) | HuggingFace 中评价函数的使用的示例 | HuggingFace, metrics |
 | [05.pipeline](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/05.pipeline.ipynb) | HuggingFace 中 pipeline 的使用的示例 | HuggingFace, pipeline |
 | [06.中文文本情感分类](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/06.%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB.ipynb) | 使用 HuggingFace 中的 BERT 来做情感分类的任务，通过只对最后的 FC 层进行 fine-tuning 来进行训练并测试 | HuggingFace, BERT, sentiment-analysis |
+| [07.中文填空](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/07.%E4%B8%AD%E6%96%87%E5%A1%AB%E7%A9%BA.ipynb) | 使用 HuggingFace 中的 BERT 来做中文填空的任务，也就是将一句话的某个 token 换成 `[MASK]` 然后分类 | HuggingFace, BERT |
+| [08.中文句子关系推断](./tutorials/huggingface-tutorials/%E8%93%9D%E6%96%AF%E8%AF%BA%E7%89%B9/08.%E4%B8%AD%E6%96%87%E5%8F%A5%E5%AD%90%E5%85%B3%E7%B3%BB%E6%8E%A8%E6%96%AD.ipynb) | 使用 HuggingFace 的 BERT 来做中文句子的关系推断任务，也就是判断两句话是否具有相连关系 | HuggingFace, BERT |
 
